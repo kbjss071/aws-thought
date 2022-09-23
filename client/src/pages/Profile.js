@@ -9,6 +9,7 @@ const Profile = props => {
     username: userParam,
     createdAt: '', 
     thought: '',
+    image: ''
   }]);
 
   useEffect(() => {
